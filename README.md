@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parth Jivani (@JivaniParth)
 - 📫 How to reach me: parthjivani1504@gmail.com
-- 🌐 Find out more about me from parthsjivani.netlify.app
+- 🌐 Find out more about me from https://parthsjivani.netlify.app
 
 <!---
 JivaniParth/JivaniParth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
