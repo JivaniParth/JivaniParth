@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Parth Jivani (@JivaniParth)<br>📫 How to reach me: parthjivani1504@gmail.com<br>🌐 Find out more about me from https://parthsjivani.netlify.app
+👋 Hi, I’m Parth Jivani (@JivaniParth)<br>📫 How to reach me: parthjivani1504@gmail.com<br>🌐 Find out more about me from https://parthjivani.com
 
 
 ## 🌐 Socials:
